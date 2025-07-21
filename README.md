@@ -30,8 +30,7 @@ Many PC games—especially those outside Steam, or games launched via Proton/Epi
 3. **Open a terminal and run:**
    ```bash
    python main.py
-````
-
+   ```
 4. **Follow the prompts:**
 
    * Enter the path to your existing Linux save folder (e.g., `~/.local/share/GameName/saves`)
